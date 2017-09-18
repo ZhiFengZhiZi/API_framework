@@ -8,7 +8,7 @@ sys.path.insert(0, parentdir)
 
 
 class emp_login(unittest.TestCase):
-    ''' 接口方法，文件以test结尾 '''
+    ''' 接口方法，文件以test结尾.. '''
 
     def setUp(self):
         '''脚本前置内容'''
